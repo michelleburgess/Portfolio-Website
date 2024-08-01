@@ -59,11 +59,11 @@ drwxr-xr-x. 3 root root    94 Jul 31 12:27 css
 drwxr-xr-x. 2 root root    23 Jul 31 12:27 js
 drwxr-xr-x. 6 root root   154 Jul 31 12:27 plugins
 
-15.	Go to Instance – Security Group – Inbound Rules – Edit Inbound Rules (save)
+15. Go to Instance – Security Group – Inbound Rules – Edit Inbound Rules (save)
 HTTP -  (80) - Anywhere IPv4
 HTTPS – (443) - Anywhere IPv4
 
-16.	systemctl status httpd 
+16. systemctl status httpd 
 -provides a means to check the status of any systemd service running on dedicated server hosting
 
 systemctl enable httpd
