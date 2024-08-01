@@ -47,12 +47,12 @@ drwxr-xr-x. 6 root root   154 Jul 31 12:27 plugins
 12.	To enter into html folder where actual webpage available-
 mv * /var/www/html/
 
-13.	Change directory to html
+13.Change directory to html
 cd  /var/www/html
 
 
 
-14.	Ls -l
+14.l s -l
 -rw-r--r--. 1 root root   178 Jul 31 12:27 README.md
 drwxr-xr-x. 3 root root    94 Jul 31 12:27 css
 -rw-r--r--. 1 root root 10600 Jul 31 12:27 index.html
